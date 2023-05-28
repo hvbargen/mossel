@@ -1,6 +1,10 @@
 # mossel
 Experimental command line shell
 
+**I abandoned this idea now!**
+As I said, if there was command completion for `cmd.exe`, then I wouldn't need a different shell.
+Now there is `clink`, which is very usable.
+
 ## Meaning and Pronounciation
 
 I thought about a different word for shell and thought of German "Muschel", but thought that might be difficult to pronounce and write for others.
